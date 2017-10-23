@@ -30,9 +30,9 @@ colors:
       background: '#dce4ef'
       text: '#112e51'
   footer:
-    primary-background: '#f1f1f1'
+    primary-background: '#122E51'
     secondary-background: '#d6d7d9'
-    text: '#212121'
+    text: '#fafafa'
 
 analytics:
   google:
