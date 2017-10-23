@@ -1,11 +1,10 @@
 ---
-layout: project
-title: Microloans for Farmers
-description: A new letter increases farmers' access to credit by 22%.
-permalink: /projects/microloans-for-farmers/
-tags: project
+layout: page
+title: Background
+description: Nulla facilisi. Duis in quam lacinia, convallis nulla ac, interdum neque.
+permalink: /background/
+tags: background
 image: /assets/img/project-images/microloans-for-farmers.jpg
-image-credit: https://www.flickr.com/photos/usdagov
 abstract: /assets/files/microloans-for-farmers.pdf
 ---
 ## What is the issue?
