@@ -7,36 +7,20 @@ assigned:
         show_in_footer: false
     -
         text: Background
-        href: pages/about.md
-        permalink: /about/
+        href: pages/background.md
+        permalink: /background/
         show_in_menu: true
-        show_in_footer: false
+        show_in_footer: true
     -
         text: Performance Metrics
-        href: pages/projects.md
-        permalink: /projects/
+        href: pages/performance-metrics.md
+        permalink: /performance-metrics/
         show_in_menu: true
         show_in_footer: false
-        children:
-            -
-                text: 'Microloans for Farmers'
-                href: pages/projects/microloans-for-farmers.md
-                show_in_menu: false
-                show_in_footer: false
-            -
-                text: 'Reducing Summer Melt'
-                href: pages/projects/reducing-summer-melt.md
-                show_in_menu: false
-                show_in_footer: false
     -
         text: 'Reform Initiatives'
         href: pages/team.md
         permalink: /team/
         show_in_menu: true
-        show_in_footer: false
-    -
-        text: 'Project data'
-        href: _data/projects.yml
-        show_in_menu: false
         show_in_footer: false
 unassigned: []
